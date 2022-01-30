@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+cache
+output
+.doit.db.db
+conf.py
+
 # C extensions
 *.so
 
